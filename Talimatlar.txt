@@ -1,0 +1,2 @@
+Kullanıcı adı : admin
+Şifre : 4561
